@@ -1,7 +1,7 @@
 //Yargs is an npm that makes it easier to parse(in this context it means to take userinput and read it and organize it in a way that we can use it) user input from the command line. Yargs makes it easy to make command line commands with options/flags.
 const yargs = require('yargs');
 const chalk = require('chalk');
-//notes is now and object that has two properties.Both of which are functions
+//notes is no and object that has two properties.Both of which are functions
 const notes = require('./notes.js');  
 
 
